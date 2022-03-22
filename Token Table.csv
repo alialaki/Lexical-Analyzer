@@ -1,0 +1,19 @@
+Token Class,Final State
+AddOp,19
+assignOp,20
+char,23
+comma,21
+comparator,25
+floatLiteral,30
+incrOp,27
+indentifier,42
+intLiteral,"32, 40, 41"
+leftBrace,33
+logicalNot,39
+leftParen,36
+multOp,38
+rightBrace,34
+rightParen,35
+semicolon,37
+string,44
+whitespace,45
